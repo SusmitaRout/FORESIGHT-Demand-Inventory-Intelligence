@@ -1,0 +1,13 @@
+pandas
+numpy
+jupyter
+matplotlib
+plotly
+scikit-learn
+lightgbm
+statsmodels
+streamlit
+fastapi
+uvicorn
+joblib
+openpyxl
